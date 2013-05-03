@@ -1,6 +1,6 @@
 {
   "name": "sea-free",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Free a port from a seaport server",
   "main": "index.js",
   "scripts": {
