@@ -1,0 +1,24 @@
+{
+  "name": "sea-free",
+  "version": "0.0.0",
+  "description": "Free a port from a seaport server",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "seaport"
+  ],
+  "author": "Noah Isaacson",
+  "license": "BSD",
+  "dependencies": {
+    "optimist": "~0.4.0",
+    "seaport": "~1.5.0",
+    "eyespect": "~0.1.8"
+  },
+  "bin": "index.js"
+}
